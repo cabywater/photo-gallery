@@ -1,0 +1,13 @@
+body {
+	/*padding-top: 70px;*/
+}
+.navbar-inverse {
+	background: #abcbac;
+}
+.jumbotron {
+	color: #abcabc;
+}
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
